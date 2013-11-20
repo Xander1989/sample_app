@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
+<<<<<<< HEAD
+=======
+ruby '1.9.3'
+#ruby-gemset=railstutorial_rails_4_0
+>>>>>>> 035636895cadee84e01fd5ca48d019c29189a086
 
 gem 'rails', '4.0.1'
 
